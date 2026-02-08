@@ -1,5 +1,9 @@
-Business Problem
+**Business Problem**
+
+
 An e-commerce retailer faces:
+
+
 Overstocking of slow-moving SKUs
 Stock-outs during seasonal demand spikes
 Budget overruns due to reactive procurement and marketing decisions
