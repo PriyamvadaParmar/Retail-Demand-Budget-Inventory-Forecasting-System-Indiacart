@@ -1,7 +1,7 @@
 # Indiacart – Retail Demand, Budget & Inventory Forecasting System
 
 ##  Project Overview
-This project presents an end-to-end **data-driven analytics solution** built for **Indiacart**, a fictional e-commerce retail company.  
+This project presents an end-to-end **data-driven analytics solution** built for **Indiacart**, a hypothetical e-commerce retail company.  
 The solution helps improve **demand forecasting, inventory planning, and budget control** by integrating **Excel, SQL, Tableau, and Python**.
 
 The project simulates a real-world retail environment and demonstrates how analytics can support **data-driven decision-making, operational efficiency, and revenue optimization**.
